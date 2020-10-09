@@ -61,17 +61,17 @@
 		  <div class="work">
 		<!--───────────────card───────────────-->
 			<div class="card">
-			    <img class="work-img" src="https://images.unsplash.com/photo-1518611507436-f9221403cca2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1225&q=80">
+			    <img class="work-img" src="images/bruhbox.png">
 			    <a href="https://github.com/Nels2/BruhBoxChat" target="_blank"> <!--Link to project-->
 				<div class="work-content">Live Node.js Chatroom</div></a>
             </div>
 			<div class="card">
-			    <img class="work-img" src="https://images.unsplash.com/photo-1462642109801-4ac2971a3a51?ixlib=rb-1.2.1&auto=format&fit=crop&w=1266&q=80">
+			    <img class="work-img" src="images/quic.png">
 				<a href="https://github.com/Nels2/QuiC" target="_blank"> <!--Link to project-->
 				<div class="work-content">Accounting Equations Solver!</div></a>
             </div>
             <div class="card">
-			    <img class="work-img" src="https://images.unsplash.com/photo-1485815457792-d1a966f9bde0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80">
+			    <img class="work-img" src="images/screensaver.png">
 				<a href="https://github.com/Nels2/ScreenSaverDemo" target="_blank"> <!--Link to project-->
 				<div class="work-content">A classic screensaver  - in python!</div></a>
             </div>
@@ -81,12 +81,12 @@
 				<div class="work-content">Language Translator using tkinter!</div></a>
             </div> 
 			<div class="card">
-			    <img class="work-img" src="https://images.unsplash.com/photo-1535556116002-6281ff3e9f36?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=781&q=80">
+			    <img class="work-img" src="images/pathways.png">
 				<a href="https://github.com/Nels2/EhsBusinessPathways" target="_blank"> <!--Link to project-->
 				<div class="work-content">Self-Lead project: Business Pathways</div></a>
             </div>
 			<div class="card">
-			    <img class="work-img" src="https://images.unsplash.com/photo-1483546416237-76fd26bbcdd1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80">
+			    <img class="work-img" src="images/emporia.png">
 				<a href="https://github.com/Nels2/Emporia" target="_blank"> <!--Link to project-->
 				<div class="work-content">Self-Lead project: City of Emporia</div></a>
             </div> 	  
