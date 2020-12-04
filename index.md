@@ -46,8 +46,9 @@
 		  <!--────social media links─────-->
 			 
 		  <div class="social-media">
-			  <a href="#" target="_blank"><i class='fab fa-twitter'></i></a>
-			  <a href="https://github.com/Nels2" target="_blank"><i class='fab fa-github'></i></a>
+			<a href="mailto:nnels227@gmail.com?Subject=Hi%20mate" target="_top"><i class='fab fa-wpforms'></i></a>
+			<a href="#" target="_blank"><i class='fab fa-reddit'></i></a>
+			<a href="https://github.com/Nels2" target="_blank"><i class='fab fa-github'></i></a>
 		    </div>
 			 
 		 </section> 
@@ -100,8 +101,9 @@
 		   <h3>Contact.<hr></h3>
 		   <p>Below are current ways to contact me</p>
 		    <div class="social-media">
-			  <a href="#" target="_blank"><i class='fab fa-twitter'></i></a>
-			  <a href="https://github.com/Nels2" target="_blank"><i class='fab fa-github'></i></a>
+			    <a href="mailto:nnels227@gmail.com?Subject=Hi%20mate" target="_top"><i class='fab fa-wpforms'></i></a>
+				<a href="#" target="_blank"><i class='fab fa-reddit'></i></a>
+			    <a href="https://github.com/Nels2" target="_blank"><i class='fab fa-github'></i></a>
 		    </div>
 		  </div>
 
