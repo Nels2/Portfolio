@@ -39,9 +39,10 @@
 		 <div class="filter"></div>
 		 <section class="intro">
 		  <h3>Nelson Orellana<hr></h3>
-		  <p>Jack of all trades developer</p>
-		  <p>I love cats and dogs!</p>
-          <p>I also love to play a couple hands in poker, and blackjack when I can!</p>
+		  <p>jack of all trades / network technician</p>
+		  <p>luv my coffee!</p>
+          <p>i love cards and analyzing code!</p>
+			  
 			  
 		  <!--────social media links─────-->
 			 
