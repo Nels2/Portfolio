@@ -216,6 +216,16 @@ a.nav-link{
 	cursor: pointer;
 }
 
+.work-content2{
+	text-align: center;
+	padding: 5px 5px;
+	margin-top: -3px;
+	font-size: 1rem;
+	color: var(--main-fonts-color);
+	font-family: var(--main-font-family);
+	cursor: pointer;
+}
+
 .card a{
 	text-decoration: none;
 }
