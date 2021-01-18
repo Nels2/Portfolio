@@ -67,7 +67,7 @@
 			    <a href="https://bruhboxchat.nels277.repl.co/" target="_blank"> <!--Link to project-->
 				<div class="work-content">Live Node.js Chatroom</div></a>
 				a href="https://github.com/Nels2/BruhBoxChat" target="_blank">
-					<div class="work-content">Source Code</div></a>
+					<div class="work-content2">Source Code</div></a>
             </div>
 			<div class="card">
 			    <img class="work-img" src="images/quic.png">
