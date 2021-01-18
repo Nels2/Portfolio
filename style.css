@@ -234,6 +234,10 @@ a.nav-link{
     color:#202020;
 }
 
+.card .work-content2:hover{
+    color:#202020;
+}
+
 .card:hover{
 	box-shadow: 0 0 1.5rem gray;
 }
