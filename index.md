@@ -86,8 +86,8 @@
             </div> 
 			<div class="card">
 			    <img class="work-img" src="images/pathways.png">
-				<a href="https://github.com/Nels2/EhsBusinessPathways" target="_blank"> <!--Link to project-->
-				<div class="work-content">Self-Lead project: Business Pathways</div></a>
+				<a href="https://github.com/Nels2/CW-Automation" target="_blank"> <!--Link to project-->
+				<div class="work-content">CW Automation</div></a>
             </div>
 			<div class="card">
 			    <img class="work-img" src="images/emporia.png">
