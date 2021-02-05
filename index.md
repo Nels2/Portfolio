@@ -91,8 +91,10 @@
             </div>
 			<div class="card">
 			    <img class="work-img" src="images/emporia.png">
-				<a href="https://github.com/Nels2/Emporia" target="_blank"> <!--Link to project-->
-				<div class="work-content">Self-Lead project: City of Emporia</div></a>
+				<a href="https://Emporia.nels277.repl.co" target="_blank"> <!--Link to project-->
+				<div class="work-content">Emporia KS page</div></a>
+				<a href="https://github.com/Nels2/Emporia" target="_blank">
+					<div class="work-content2">Source Code</div></a>
             </div> 	  
 		  </div>
 		  </div>
