@@ -40,9 +40,8 @@
 		 <section class="intro">
 		  <h3>Nelson Orellana<hr></h3>
 		  <p>jack of all trades / network technician</p>
-		  <p>luv my coffee!</p>
+		  <p>love coffee!</p>
           <p>i love cards and analyzing code!</p>
-			  
 			  
 		  <!--────social media links─────-->
 			 
@@ -66,7 +65,7 @@
 			    <img class="work-img" src="images/bruhbox.png">
 			    <a href="https://bruhboxchat.nels277.repl.co/Demo" target="_blank"> <!--Link to project-->
 				<div class="work-content">Live Node.js Chatroom</div></a>
-				a href="https://github.com/Nels2/BruhBoxChat" target="_blank">
+				<a href="https://github.com/Nels2/BruhBoxChat" target="_blank">
 					<div class="work-content2">Source Code</div></a>
             </div>
 			<div class="card">
@@ -113,7 +112,7 @@
 		  </div>
 
 	</main>
-	  <footer class="copyright">© 2020 
+	  <footer class="copyright">© 2021 
 		  <a href="https://github.com/Nels2" target="_blank"> Nels2</a>
      </footer>
 	  
