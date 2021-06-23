@@ -40,7 +40,7 @@
 		 <section class="intro">
 		  <h3>Nelson Orellana<hr></h3>
 		  <p>jack of all trades / network technician</p>
-		  <p>love coffee!</p>
+		  <p>Majoring in Computer Science @ ESU</p>
           <p>i love cards and analyzing code!</p>
 			  
 		  <!--────social media links─────-->
