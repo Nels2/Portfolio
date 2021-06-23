@@ -79,9 +79,9 @@
 				<div class="work-content">MikroTik Blacklisting!</div></a>
             </div>
             <div class="card">
-			    <img class="work-img" src="https://images.unsplash.com/photo-1517842645767-c639042777db?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80">
-				<a href="https://github.com/Nels2/Language_Translator" target="_blank"> <!--Link to project-->
-				<div class="work-content">Language Translator using tkinter!</div></a>
+			    <img class="work-img" src="images/ticker.jpg">
+				<a href="https://github.com/Nels2/ticker" target="_blank"> <!--Link to project-->
+				<div class="work-content">Real Time Stock Prices!</div></a>
             </div> 
 			<div class="card">
 			    <img class="work-img" src="images/pathways.png">
